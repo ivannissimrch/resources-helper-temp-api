@@ -469,5 +469,399 @@
     "createdAt": "2024-10-24T18:19:11.784Z",
     "id": "135379529984757357501",
     "resourceType": "video"
+  },
+
+  {
+    "author": "freeCodeCamp",
+    "name": "React Beginner\u2019s Handbook",
+    "appliedTags": [
+      "1048172208079519764",
+      "1048172108204744765",
+      "1048176100892737618"
+    ],
+    "url": "https://www.freecodecamp.org/news/react-beginner-handbook/",
+    "createdAt": "2024-01-15T00:00:00Z",
+    "id": "react-beginners-handbook",
+    "resourceType": "article"
+  },
+  {
+    "author": "Dave Ceddia",
+    "name": "How to Learn React \u2013 A Guide for Beginners",
+    "appliedTags": [
+      "1048172208079519764",
+      "1048172108204744765",
+      "1048176100892737618"
+    ],
+    "url": "https://daveceddia.com/how-to-learn-react/",
+    "createdAt": "2023-12-20T00:00:00Z",
+    "id": "learn-react-ceddia",
+    "resourceType": "article"
+  },
+  {
+    "author": "JavaScript.info",
+    "name": "Modern JavaScript Tutorial",
+    "appliedTags": ["1048172157009678337", "1048176100892737618"],
+    "url": "https://javascript.info/",
+    "createdAt": "2023-01-01T00:00:00Z",
+    "id": "modern-js-tutorial",
+    "resourceType": "docs"
+  },
+  {
+    "author": "freeCodeCamp",
+    "name": "JavaScript ES6 Cheatsheet",
+    "appliedTags": ["1048172157009678337"],
+    "url": "https://www.freecodecamp.org/news/es6-cheat-sheet/",
+    "createdAt": "2023-05-10T00:00:00Z",
+    "id": "es6-cheatsheet",
+    "resourceType": "article"
+  },
+  {
+    "author": "Josh Comeau",
+    "name": "CSS for JavaScript Developers",
+    "appliedTags": ["1048172108204744765"],
+    "url": "https://css-for-js.dev/",
+    "createdAt": "2022-05-01T00:00:00Z",
+    "id": "css-for-js",
+    "resourceType": "course"
+  },
+  {
+    "author": "Kevin Powell",
+    "name": "Mastering Flexbox and Grid",
+    "appliedTags": ["1048172108204744765"],
+    "url": "https://www.youtube.com/playlist?list=PL4-IK0AVhVjPq-bv7x0_U-91xYdG_zVMp",
+    "createdAt": "2023-11-01T00:00:00Z",
+    "id": "css-layout-powell",
+    "resourceType": "video"
+  },
+  {
+    "author": "GitHub Docs",
+    "name": "GitHub Flow \u2013 How to Work with Pull Requests",
+    "appliedTags": [
+      "1048174538191544320",
+      "1048174499905937428",
+      "1048176100892737618"
+    ],
+    "url": "https://docs.github.com/en/get-started/quickstart/github-flow",
+    "createdAt": "2023-10-01T00:00:00Z",
+    "id": "github-flow-docs",
+    "resourceType": "docs"
+  },
+  {
+    "author": "The Odin Project",
+    "name": "Introduction to Git",
+    "appliedTags": ["1048174499905937428", "1048176100892737618"],
+    "url": "https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/introduction-to-git",
+    "createdAt": "2022-12-01T00:00:00Z",
+    "id": "odin-git",
+    "resourceType": "lesson"
+  },
+  {
+    "author": "Vercel Docs",
+    "name": "Deploy Your First Project",
+    "appliedTags": ["1048176100892737618", "1048172108204744765"],
+    "url": "https://vercel.com/docs/quickstart",
+    "createdAt": "2023-09-15T00:00:00Z",
+    "id": "vercel-quickstart",
+    "resourceType": "docs"
+  },
+  {
+    "author": "freeCodeCamp",
+    "name": "Deploy a Website with GitHub Pages",
+    "appliedTags": [
+      "1048174538191544320",
+      "1048176100892737618",
+      "1048172063774486548"
+    ],
+    "url": "https://www.freecodecamp.org/news/deploy-a-website-with-github-pages/",
+    "createdAt": "2023-02-20T00:00:00Z",
+    "id": "deploy-github-pages",
+    "resourceType": "article"
+  },
+  {
+    "author": "Chingu",
+    "name": "How to Work Effectively on Remote Teams",
+    "appliedTags": ["1048176100892737618"],
+    "url": "https://medium.com/chingu/how-to-work-effectively-on-remote-teams-4e31a1efab6b",
+    "createdAt": "2022-03-01T00:00:00Z",
+    "id": "chingu-remote-teams",
+    "resourceType": "article"
+  },
+  {
+    "author": "Chingu",
+    "name": "Tips to Get the Most Out of Chingu Voyages",
+    "appliedTags": ["1048176100892737618"],
+    "url": "https://medium.com/chingu/tips-to-get-the-most-out-of-chingu-voyages-c22eb5c9d1a7",
+    "createdAt": "2022-04-12T00:00:00Z",
+    "id": "chingu-voyage-tips",
+    "resourceType": "article"
+  },
+  {
+    "author": "Frontend Mentor",
+    "name": "How to Build a Job-Ready Frontend Portfolio",
+    "appliedTags": ["1050431984058499112"],
+    "url": "https://www.frontendmentor.io/blog/build-a-job-ready-frontend-portfolio/",
+    "createdAt": "2023-08-05T00:00:00Z",
+    "id": "frontend-mentor-portfolio",
+    "resourceType": "article"
+  },
+  {
+    "author": "Cynthia Savard Saucier",
+    "name": "10 Real Portfolio Tips from a Hiring Manager",
+    "appliedTags": ["1050431984058499112"],
+    "url": "https://uxdesign.cc/10-tips-for-portfolio-that-actually-gets-you-a-job-2bfe8f53f52c",
+    "createdAt": "2023-05-22T00:00:00Z",
+    "id": "portfolio-job-tips",
+    "resourceType": "article"
+  },
+  {
+    "author": "Josh Comeau",
+    "name": "How to Stand Out in Frontend Interviews",
+    "appliedTags": ["1050431984058499112", "1048172108204744765"],
+    "url": "https://www.joshwcomeau.com/blog/stand-out-in-frontend-interviews/",
+    "createdAt": "2023-09-10T00:00:00Z",
+    "id": "comeau-job-tips",
+    "resourceType": "article"
+  },
+  {
+    "author": "Vercel",
+    "name": "Common Deployment Errors and How to Fix Them",
+    "appliedTags": ["1048176100892737618"],
+    "url": "https://vercel.com/guides/common-deployment-errors",
+    "createdAt": "2023-10-15T00:00:00Z",
+    "id": "vercel-errors-guide",
+    "resourceType": "docs"
+  },
+  {
+    "author": "Netlify",
+    "name": "Debugging Deploy Failures on Netlify",
+    "appliedTags": ["1048176100892737618"],
+    "url": "https://docs.netlify.com/configure-builds/troubleshooting-tips/",
+    "createdAt": "2022-11-01T00:00:00Z",
+    "id": "netlify-troubleshoot",
+    "resourceType": "docs"
+  },
+  {
+    "author": "The Odin Project",
+    "name": "How to Avoid Git Merge Conflicts",
+    "appliedTags": ["1048174499905937428", "1048176100892737618"],
+    "url": "https://www.theodinproject.com/lessons/foundations-git-merge-conflicts",
+    "createdAt": "2022-07-12T00:00:00Z",
+    "id": "odin-merge-conflicts",
+    "resourceType": "lesson"
+  },
+  {
+    "author": "Atlassian",
+    "name": "What is Gitflow Workflow?",
+    "appliedTags": ["1048174499905937428"],
+    "url": "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
+    "createdAt": "2021-08-10T00:00:00Z",
+    "id": "gitflow-atlassian",
+    "resourceType": "docs"
+  },
+  {
+    "author": "Git Tower",
+    "name": "How to Resolve Merge Conflicts in Git",
+    "appliedTags": ["1048174499905937428", "1048176100892737618"],
+    "url": "https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/merge-conflicts/",
+    "createdAt": "2023-04-01T00:00:00Z",
+    "id": "tower-merge-conflicts",
+    "resourceType": "guide"
+  },
+  {
+    "author": "Chingu",
+    "name": "What to Expect in a Chingu Team Project",
+    "appliedTags": ["1048176100892737618"],
+    "url": "https://medium.com/chingu/what-to-expect-in-a-chingu-project-206c7dfd3f7f",
+    "createdAt": "2023-06-01T00:00:00Z",
+    "id": "chingu-teamwork",
+    "resourceType": "article"
+  },
+  {
+    "author": "Stack Overflow Blog",
+    "name": "10 Tips for Working with Developers on a Team",
+    "appliedTags": ["1048176100892737618"],
+    "url": "https://stackoverflow.blog/2022/10/18/10-tips-for-working-on-a-dev-team/",
+    "createdAt": "2022-10-18T00:00:00Z",
+    "id": "dev-team-tips",
+    "resourceType": "article"
+  },
+  {
+    "author": "Chingu",
+    "name": "How to Deploy a Chingu Project with Vercel",
+    "appliedTags": ["1048176100892737618"],
+    "url": "https://medium.com/chingu/how-to-deploy-a-chingu-project-with-vercel-abc123",
+    "createdAt": "2023-05-10T00:00:00Z",
+    "id": "52df0298-47fb-4144-b51e-1a6ec144fb44",
+    "resourceType": "article"
+  },
+  {
+    "author": "Chingu",
+    "name": "Avoiding Git Merge Conflicts in a Team Project",
+    "appliedTags": ["1048174499905937428", "1048176100892737618"],
+    "url": "https://medium.com/chingu/avoiding-git-merge-conflicts-in-chingu-teams-dfe456",
+    "createdAt": "2023-07-15T00:00:00Z",
+    "id": "8fb5b390-3c16-49cb-aa12-69e47e91d4a3",
+    "resourceType": "article"
+  },
+  {
+    "author": "Chingu",
+    "name": "Why Standups Matter in Remote Teams",
+    "appliedTags": ["1048176100892737618"],
+    "url": "https://medium.com/chingu/why-standups-matter-efg789",
+    "createdAt": "2023-06-20T00:00:00Z",
+    "id": "1f3b4e3e-3475-4bdf-b0ad-cd305ab17ac9",
+    "resourceType": "article"
+  },
+  {
+    "author": "freeCodeCamp",
+    "name": "How to Get a Job Without a CS Degree",
+    "appliedTags": ["1050431984058499112"],
+    "url": "https://www.freecodecamp.org/news/how-to-get-a-job-without-a-cs-degree/",
+    "createdAt": "2023-04-10T00:00:00Z",
+    "id": "d6636d6d-e5b6-496a-8934-5bb35a239a96",
+    "resourceType": "article"
+  },
+  {
+    "author": "The Odin Project",
+    "name": "How to Write a Developer Resume That Gets You Interviews",
+    "appliedTags": ["1050431984058499112"],
+    "url": "https://www.theodinproject.com/blog/dev-resume-tips",
+    "createdAt": "2023-03-01T00:00:00Z",
+    "id": "42752349-e978-47d0-a203-05137f842766",
+    "resourceType": "article"
+  },
+  {
+    "author": "Hashnode",
+    "name": "Resources for Self-Taught Web Developers",
+    "appliedTags": ["1050431984058499112", "1048172108204744765"],
+    "url": "https://hashnode.com/post/resources-for-self-taught-web-developers-clq5xyz789",
+    "createdAt": "2023-08-01T00:00:00Z",
+    "id": "15056ecf-b65a-47ce-bb7c-64c1dff9bb39",
+    "resourceType": "article"
+  },
+  {
+    "author": "Josh Comeau",
+    "name": "The Beginner\u2019s Guide to React",
+    "appliedTags": [
+      "1048172208079519764",
+      "1048172108204744765",
+      "1048176100892737618"
+    ],
+    "url": "https://www.joshwcomeau.com/react/introducing-the-beginners-guide-to-react/",
+    "createdAt": "2023-02-01T00:00:00Z",
+    "id": "32be1e50-afb4-4d2c-9e83-1d84117e5157",
+    "resourceType": "article"
+  },
+  {
+    "author": "Josh Comeau",
+    "name": "Let\u2019s Learn JavaScript",
+    "appliedTags": ["1048172157009678337", "1048176100892737618"],
+    "url": "https://www.joshwcomeau.com/javascript/lets-learn-javascript/",
+    "createdAt": "2023-01-10T00:00:00Z",
+    "id": "0dfbe567-d942-4ca0-822b-fe57f02d53d1",
+    "resourceType": "article"
+  },
+  {
+    "author": "Josh Comeau",
+    "name": "How to Build an Accessible Modal",
+    "appliedTags": ["1048172108204744765", "1048172208079519764"],
+    "url": "https://www.joshwcomeau.com/accessibility/building-a-modal/",
+    "createdAt": "2022-11-20T00:00:00Z",
+    "id": "3e00f327-2a8a-4eb6-b3b8-578e06547e43",
+    "resourceType": "article"
+  },
+  {
+    "author": "Frontend Masters",
+    "name": "Free Front-End Learning Paths",
+    "appliedTags": [
+      "1048172108204744765",
+      "1048176100892737618",
+      "1050431984058499112"
+    ],
+    "url": "https://frontendmasters.com/learn/",
+    "createdAt": "2022-12-10T00:00:00Z",
+    "id": "e7ce2236-5737-4e24-ada9-89a0f185eae8",
+    "resourceType": "docs"
+  },
+  {
+    "author": "Frontend Masters",
+    "name": "Getting Started with JavaScript",
+    "appliedTags": ["1048172157009678337", "1048176100892737618"],
+    "url": "https://frontendmasters.com/courses/getting-started-javascript/",
+    "createdAt": "2022-06-01T00:00:00Z",
+    "id": "bccddc0a-1e50-402c-b913-3f89bb9e0287",
+    "resourceType": "course"
+  },
+  {
+    "author": "freeCodeCamp",
+    "name": "How to Write Better Git Commit Messages",
+    "appliedTags": ["1048174499905937428", "1050431984058499112"],
+    "url": "https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/",
+    "createdAt": "2023-01-05T00:00:00Z",
+    "id": "c63ab229-4678-441f-bf86-933ea8f96307",
+    "resourceType": "article"
+  },
+  {
+    "author": "CSS Tricks",
+    "name": "A Complete Guide to Flexbox",
+    "appliedTags": ["1048172108204744765"],
+    "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+    "createdAt": "2021-05-10T00:00:00Z",
+    "id": "0a0762d8-eea2-4809-93ed-78185e80e49f",
+    "resourceType": "article"
+  },
+  {
+    "author": "Smashing Magazine",
+    "name": "How to Work With Designers as a Developer",
+    "appliedTags": ["1048176100892737618", "1050431984058499112"],
+    "url": "https://www.smashingmagazine.com/2020/06/developer-handbook-working-with-designers/",
+    "createdAt": "2020-06-15T00:00:00Z",
+    "id": "9b0d2796-4f89-4b7b-8e1a-a078dab88750",
+    "resourceType": "article"
+  },
+  {
+    "author": "MDN Web Docs",
+    "name": "HTML Elements Reference",
+    "appliedTags": ["1048172063774486548", "1048172108204744765"],
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element",
+    "createdAt": "2023-08-01T00:00:00Z",
+    "id": "77527559-2054-4a0c-89b9-09659040f88e",
+    "resourceType": "docs"
+  },
+  {
+    "author": "Tailwind Labs",
+    "name": "Official Tailwind CSS Documentation",
+    "appliedTags": ["1048172108204744765", "styles-tailwind-id-temp"],
+    "url": "https://tailwindcss.com/docs",
+    "createdAt": "2023-01-01T00:00:00Z",
+    "id": "d1a2b909-cf48-4b40-8833-11d85eecdaad",
+    "resourceType": "docs"
+  },
+  {
+    "author": "Tailwind Labs",
+    "name": "Dark Mode in Tailwind CSS",
+    "appliedTags": ["1048172108204744765", "styles-tailwind-id-temp"],
+    "url": "https://tailwindcss.com/docs/dark-mode",
+    "createdAt": "2023-03-10T00:00:00Z",
+    "id": "33c4592e-c9f6-413d-aa9e-c24deebd6cf2",
+    "resourceType": "docs"
+  },
+  {
+    "author": "freeCodeCamp",
+    "name": "Dark Mode in 5 Minutes with Tailwind CSS",
+    "appliedTags": ["1048172108204744765", "styles-tailwind-id-temp"],
+    "url": "https://www.freecodecamp.org/news/tailwind-css-dark-mode/",
+    "createdAt": "2022-11-15T00:00:00Z",
+    "id": "b6ac3283-da86-4ecb-8ab4-11c1de2c4435",
+    "resourceType": "article"
+  },
+  {
+    "author": "The Net Ninja",
+    "name": "Tailwind CSS Crash Course",
+    "appliedTags": ["1048172108204744765", "styles-tailwind-id-temp"],
+    "url": "https://www.youtube.com/watch?v=UBOj6rqRUME",
+    "createdAt": "2023-02-20T00:00:00Z",
+    "id": "ab9ee872-74f6-42e8-adf1-c8e1e6a07025",
+    "resourceType": "video"
   }
 ]
