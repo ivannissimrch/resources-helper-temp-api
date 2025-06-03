@@ -573,5 +573,50 @@
     "createdAt": "2025-06-02T20:00:00.000Z",
     "id": "chingu-tjh-agile-mba-2025",
     "resourceType": "video"
+  },
+  {
+    "author": "totaltypescript",
+    "name": "Solving TypeScript Errors",
+    "url": "https://www.totaltypescript.com/tutorials/solving-typescript-errors",
+    "appliedTags": ["1048172283451162664"],
+    "createdAt": "2025-06-02T22:00:00.000Z",
+    "id": "new-001",
+    "resourceType": "article"
+  },
+  {
+    "author": "totaltypescript",
+    "name": "Beginner's TypeScript",
+    "url": "https://www.totaltypescript.com/tutorials/beginners-typescript",
+    "appliedTags": ["1048172283451162664"],
+    "createdAt": "2025-06-02T22:00:00.000Z",
+    "id": "new-002",
+    "resourceType": "article"
+  },
+  {
+    "author": "aihero",
+    "name": "The AI Engineer Roadmap – Want to build AI-powered apps?",
+    "url": "https://www.aihero.dev/ai-engineer-roadmap",
+    "appliedTags": ["1352255739208536064"],
+    "createdAt": "2025-06-02T22:00:00.000Z",
+    "id": "new-003",
+    "resourceType": "article"
+  },
+  {
+    "author": "a11y.coffee",
+    "name": "Introduction to Web Accessibility",
+    "url": "https://a11y.coffee/intro/",
+    "appliedTags": [],
+    "createdAt": "2025-06-02T22:00:00.000Z",
+    "id": "new-004",
+    "resourceType": "article"
+  },
+  {
+    "author": "aihero",
+    "name": "17 Techniques For Improving Your LLM-Powered App",
+    "url": "https://www.aihero.dev/how-to-improve-your-llm-powered-app",
+    "appliedTags": ["1352255739208536064"],
+    "createdAt": "2025-06-02T22:00:00.000Z",
+    "id": "new-005",
+    "resourceType": "article"
   }
 ]
