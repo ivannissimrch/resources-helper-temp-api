@@ -523,11 +523,7 @@
   {
     "author": "Chingu",
     "name": "How Git & GitHub Work in Chingu Teams – Roundtable Discussion",
-    "appliedTags": [
-      "1048174499905937428",
-      "1048174538191544320",
-      "chingu-starter"
-    ],
+    "appliedTags": ["1048174499905937428", "1048174538191544320"],
     "url": "https://www.youtube.com/watch?v=uGenxJEAxiw",
     "createdAt": "2025-06-02T19:00:00.000Z",
     "id": "chingu-git-github-team-2025",
@@ -536,11 +532,7 @@
   {
     "author": "Chingu",
     "name": "What to Expect on a Chingu Voyage – Roundtable Overview",
-    "appliedTags": [
-      "chingu-starter",
-      "1048176100892737618",
-      "1050431984058499112"
-    ],
+    "appliedTags": ["1048176100892737618", "1050431984058499112"],
     "url": "https://www.youtube.com/watch?v=pskNxPwKW-Q",
     "createdAt": "2025-06-02T19:01:00.000Z",
     "id": "chingu-voyage-overview-2025",
@@ -549,11 +541,7 @@
   {
     "author": "Chingu",
     "name": "Making Teamwork Work in Chingu – Roundtable Tips",
-    "appliedTags": [
-      "1048176100892737618",
-      "1050431984058499112",
-      "chingu-starter"
-    ],
+    "appliedTags": ["1048176100892737618", "1050431984058499112"],
     "url": "https://www.youtube.com/watch?v=ATHCSRh_bjs",
     "createdAt": "2025-06-02T19:02:00.000Z",
     "id": "chingu-teamwork-tips-2025",
@@ -562,7 +550,7 @@
   {
     "author": "Chingu",
     "name": "Understanding Your Agile Role in Chingu Projects – Roundtable",
-    "appliedTags": ["chingu-starter", "1048176100892737618"],
+    "appliedTags": ["1048176100892737618"],
     "url": "https://www.youtube.com/watch?v=pEWeBB0qW9Y",
     "createdAt": "2025-06-02T19:03:00.000Z",
     "id": "chingu-agile-role-2025",
@@ -571,7 +559,7 @@
   {
     "author": "Chingu",
     "name": "Why Daily Standups Matter in Chingu Voyages – Roundtable",
-    "appliedTags": ["chingu-starter", "1048176100892737618"],
+    "appliedTags": ["1048176100892737618"],
     "url": "https://www.youtube.com/watch?v=hoaR0_HMjaw",
     "createdAt": "2025-06-02T19:04:00.000Z",
     "id": "chingu-daily-standup-2025",
@@ -580,7 +568,7 @@
   {
     "author": "Chingu",
     "name": "TJH: The Agile MBA – Chingu Roundtable on Agile Mindset",
-    "appliedTags": ["chingu-starter", "1048176100892737618"],
+    "appliedTags": ["1048176100892737618"],
     "url": "https://www.youtube.com/watch?v=60NrzF6x4vY",
     "createdAt": "2025-06-02T20:00:00.000Z",
     "id": "chingu-tjh-agile-mba-2025",
