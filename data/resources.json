@@ -670,15 +670,6 @@
   },
   {
     "author": "jdmedlock",
-    "name": "Hot take on Story points",
-    "appliedTags": ["1050431984058499112"],
-    "url": "Thanks for this <@1145067826655285359> Story Points should never be used like hours. This has been one of the biggest battles I've had to work through with Management over the years",
-    "createdAt": "2025-06-05T14:47:33.834Z",
-    "id": "1380196354973761616",
-    "resourceType": "article"
-  },
-  {
-    "author": "jdmedlock",
     "name": "The Art of SQL Query Optimization",
     "appliedTags": ["1050431949119950880"],
     "url": "https://jnidzwetzki.github.io/2025/06/03/art-of-query-optimization.html",
