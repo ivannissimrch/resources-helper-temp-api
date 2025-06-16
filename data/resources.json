@@ -1,5 +1,14 @@
 [
   {
+    "author": "ivanrebolledo",
+    "name": "GitFlow Guide for First time Chingus",
+    "appliedTags": ["chingu", "git", "workflow"],
+    "url": "https://github.com/ivannissimrch/gitflow-guide",
+    "createdAt": "2025-06-15T00:00:00.000Z",
+    "id": "gitflow-guide",
+    "resourceType": "article"
+  },
+  {
     "author": "jdmedlock",
     "name": "Greenmask: Postgres Data Masking and Obfuscation Tool",
     "appliedTags": ["1050431949119950880"],
@@ -817,7 +826,7 @@
     "author": "Davy Jones",
     "name": "Become a 10x Developer. No AI Required",
     "appliedTags": ["1050431984058499112", "1048176100892737618"],
-    "url": "https://10x-developer.vercel.app/",
+    "url": "https://new10-x-developer.vercel.app/",
     "createdAt": "2025-06-07T13:00:00.000Z",
     "id": "10x-developer-meme-2025",
     "resourceType": "article"
